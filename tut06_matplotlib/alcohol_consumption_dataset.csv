@@ -1,0 +1,501 @@
+date,region,beverage_type,age_group,gender,occasion,units_consumed,price_per_unit,satisfaction_rating,is_weekend,month,year,total_spent,quarter
+2024-04-12,North America,RTD,56+,Male,Party,0.5,11.62,5,False,4,2024,5.81,2
+2025-03-11,North America,Wine,46-55,Male,Business,1.2,15.03,3,False,3,2025,18.04,1
+2024-09-27,Africa,Wine,46-55,Female,Holiday,3.9,14.7,4,False,9,2024,57.33,3
+2024-04-16,Asia,Beer,46-55,Female,Casual Dining,2.3,15.99,4,False,4,2024,36.78,2
+2024-03-12,Asia,Spirits,26-35,Female,Weekday Evening,0.5,4.35,3,False,3,2024,2.17,1
+2025-12-01,Africa,Beer,46-55,Male,Weekend Night,4.7,10.97,5,False,12,2025,51.56,4
+2024-01-21,South America,Beer,36-45,Male,Party,1.9,18.91,3,True,1,2024,35.93,1
+2025-09-06,Asia,Wine,18-25,Female,Weekend Night,4.6,7.41,5,True,9,2025,34.09,3
+2024-05-01,North America,Wine,46-55,Female,Weekday Evening,2.2,7.48,2,False,5,2024,16.46,2
+2025-04-11,North America,Beer,18-25,Non-binary,Weekend Night,2.1,3.22,3,False,4,2025,6.76,2
+2024-08-02,Europe,Beer,26-35,Male,Weekday Evening,0.5,12.62,5,False,8,2024,6.31,3
+2024-11-26,Asia,Spirits,18-25,Female,Business,0.5,22.42,3,False,11,2024,11.21,4
+2025-04-03,South America,Beer,26-35,Male,Holiday,8.9,4.14,3,False,4,2025,36.85,2
+2024-03-28,Africa,Wine,36-45,Male,Party,0.6,7.2,5,False,3,2024,4.32,1
+2025-01-07,Africa,Beer,26-35,Female,Weekday Evening,9.5,9.82,5,False,1,2025,93.29,1
+2024-04-09,South America,Wine,26-35,Female,Weekend Night,1.9,19.1,1,False,4,2024,36.29,2
+2025-10-25,Oceania,Wine,56+,Non-binary,Party,0.5,17.09,3,True,10,2025,8.54,4
+2024-05-10,Europe,Beer,46-55,Male,Holiday,0.5,12.15,4,False,5,2024,6.08,2
+2025-10-23,Africa,Beer,46-55,Male,Business,0.6,19.7,3,False,10,2025,11.82,4
+2024-11-04,Asia,Beer,36-45,Female,Party,6.5,16.41,3,False,11,2024,106.66,4
+2024-12-09,Europe,Beer,36-45,Female,Weekday Evening,1.3,22.71,5,False,12,2024,29.52,4
+2025-05-06,Asia,RTD,46-55,Male,Holiday,1.3,21.0,3,False,5,2025,27.3,2
+2025-02-17,North America,Beer,56+,Male,Weekend Night,0.9,8.56,3,False,2,2025,7.7,1
+2025-01-20,Europe,Cocktails,46-55,Male,Holiday,0.5,8.97,4,False,1,2025,4.49,1
+2024-07-10,Africa,Beer,56+,Female,Holiday,1.7,5.76,5,False,7,2024,9.79,3
+2024-10-03,Europe,Spirits,36-45,Male,Casual Dining,0.5,10.41,3,False,10,2024,5.2,4
+2024-06-09,Europe,Spirits,18-25,Male,Holiday,4.5,24.99,2,True,6,2024,112.46,2
+2025-04-04,Europe,Wine,36-45,Male,Holiday,1.2,11.93,1,False,4,2025,14.32,2
+2024-11-09,Oceania,Wine,36-45,Male,Party,1.2,7.85,4,True,11,2024,9.42,4
+2024-01-22,Europe,Wine,26-35,Male,Weekend Night,1.6,19.77,3,False,1,2024,31.63,1
+2024-09-09,Asia,Beer,26-35,Female,Party,1.5,14.93,2,False,9,2024,22.4,3
+2025-07-14,North America,RTD,26-35,Male,Party,13.2,6.29,3,False,7,2025,83.03,3
+2025-04-19,South America,Cocktails,26-35,Female,Weekday Evening,2.0,11.38,3,True,4,2025,22.76,2
+2024-02-28,Europe,RTD,56+,Male,Party,0.5,12.12,5,False,2,2024,6.06,1
+2025-05-25,Africa,Beer,46-55,Female,Casual Dining,2.3,19.58,5,True,5,2025,45.03,2
+2025-11-12,Europe,Spirits,18-25,Female,Casual Dining,0.5,3.45,5,False,11,2025,1.72,4
+2025-04-20,Africa,RTD,36-45,Female,Weekday Evening,0.5,8.92,2,True,4,2025,4.46,2
+2025-11-30,Asia,Beer,56+,Female,Business,8.8,14.39,3,True,11,2025,126.63,4
+2024-07-08,Africa,Beer,18-25,Male,Weekend Night,3.7,8.91,1,False,7,2024,32.97,3
+2025-11-17,South America,Spirits,56+,Male,Weekend Night,9.8,16.83,4,False,11,2025,164.93,4
+2025-07-16,North America,Wine,56+,Female,Party,1.6,13.6,5,False,7,2025,21.76,3
+2025-07-20,Africa,Cocktails,36-45,Non-binary,Party,1.9,10.96,5,True,7,2025,20.82,3
+2024-08-31,Africa,Beer,46-55,Female,Business,0.5,23.88,3,True,8,2024,11.94,3
+2025-05-19,North America,Spirits,26-35,Female,Party,0.7,16.91,3,False,5,2025,11.84,2
+2024-05-10,South America,Beer,46-55,Female,Weekend Night,4.6,5.86,2,False,5,2024,26.96,2
+2025-04-29,Europe,Beer,36-45,Male,Holiday,1.1,15.32,2,False,4,2025,16.85,2
+2025-10-08,Africa,Beer,36-45,Male,Casual Dining,4.4,20.18,5,False,10,2025,88.79,4
+2024-01-21,North America,Cocktails,36-45,Female,Holiday,3.1,18.59,3,True,1,2024,57.63,1
+2024-06-15,Asia,Spirits,18-25,Female,Holiday,0.5,6.79,1,True,6,2024,3.4,2
+2024-09-30,North America,Wine,46-55,Male,Weekend Night,1.8,24.39,4,False,9,2024,43.9,3
+2025-01-22,Asia,Wine,46-55,Female,Holiday,2.8,12.87,3,False,1,2025,36.04,1
+2025-08-23,South America,Cocktails,56+,Male,Business,0.7,6.5,3,True,8,2025,4.55,3
+2024-11-11,Europe,Wine,56+,Female,Weekday Evening,4.4,6.96,2,False,11,2024,30.62,4
+2024-01-14,North America,Cocktails,56+,Male,Party,2.0,5.16,4,True,1,2024,10.32,1
+2024-08-29,Oceania,Wine,36-45,Male,Weekday Evening,0.5,20.68,5,False,8,2024,10.34,3
+2024-12-11,Africa,Wine,46-55,Female,Casual Dining,2.2,5.68,3,False,12,2024,12.5,4
+2025-07-18,South America,Wine,36-45,Male,Party,15.0,5.75,5,False,7,2025,86.25,3
+2024-12-05,North America,Beer,18-25,Female,Holiday,0.5,21.71,3,False,12,2024,10.86,4
+2024-04-01,Africa,Spirits,56+,Female,Casual Dining,4.2,10.58,5,False,4,2024,44.44,2
+2025-01-01,North America,Wine,36-45,Female,Party,0.6,3.68,4,False,1,2025,2.21,1
+2025-03-30,Asia,Beer,36-45,Male,Business,3.8,4.14,2,True,3,2025,15.73,1
+2025-03-03,North America,Cocktails,18-25,Male,Business,3.3,6.13,4,False,3,2025,20.23,1
+2025-05-23,Oceania,Wine,26-35,Male,Business,0.9,7.69,1,False,5,2025,6.92,2
+2024-02-04,North America,Wine,46-55,Non-binary,Business,1.0,17.63,2,True,2,2024,17.63,1
+2024-07-24,North America,Cocktails,26-35,Female,Holiday,3.9,6.46,4,False,7,2024,25.19,3
+2024-03-21,Oceania,Spirits,56+,Female,Weekday Evening,1.5,5.62,1,False,3,2024,8.43,1
+2025-07-15,South America,Beer,36-45,Female,Party,3.3,19.82,3,False,7,2025,65.41,3
+2025-01-22,North America,RTD,18-25,Female,Holiday,0.5,17.76,3,False,1,2025,8.88,1
+2024-01-02,Oceania,Spirits,18-25,Female,Business,4.8,12.58,5,False,1,2024,60.38,1
+2025-01-24,Africa,Beer,46-55,Male,Weekday Evening,3.1,15.08,2,False,1,2025,46.75,1
+2025-07-19,Asia,Beer,26-35,Female,Casual Dining,5.9,9.86,3,True,7,2025,58.17,3
+2024-04-15,Asia,Spirits,46-55,Male,Casual Dining,0.5,13.62,2,False,4,2024,6.81,2
+2025-04-21,North America,Spirits,36-45,Female,Casual Dining,2.2,14.15,3,False,4,2025,31.13,2
+2025-12-03,South America,Wine,46-55,Female,Business,2.3,11.52,5,False,12,2025,26.5,4
+2025-02-05,South America,Cocktails,18-25,Female,Casual Dining,1.1,22.94,4,False,2,2025,25.23,1
+2025-12-30,Africa,Spirits,18-25,Male,Weekend Night,1.5,3.35,5,False,12,2025,5.03,4
+2025-07-09,North America,Beer,56+,Male,Party,0.5,20.21,1,False,7,2025,10.1,3
+2024-06-10,Asia,Beer,56+,Male,Party,3.4,5.74,3,False,6,2024,19.52,2
+2024-07-20,South America,Beer,36-45,Male,Business,2.0,20.55,1,True,7,2024,41.1,3
+2024-09-26,North America,Spirits,26-35,Male,Weekend Night,0.5,16.55,1,False,9,2024,8.28,3
+2024-09-27,South America,Beer,46-55,Female,Holiday,2.9,21.55,2,False,9,2024,62.5,3
+2025-03-31,Oceania,Wine,36-45,Female,Holiday,1.6,5.15,3,False,3,2025,8.24,1
+2025-04-06,South America,Spirits,56+,Male,Casual Dining,0.5,15.3,1,True,4,2025,7.65,2
+2025-12-27,Asia,Cocktails,46-55,Male,Weekday Evening,8.7,14.02,4,True,12,2025,121.97,4
+2024-09-08,Europe,Beer,56+,Male,Holiday,7.4,18.54,1,True,9,2024,137.2,3
+2025-12-02,Africa,Cocktails,46-55,Female,Weekday Evening,1.8,14.75,4,False,12,2025,26.55,4
+2024-10-22,Africa,Beer,26-35,Female,Party,0.5,14.9,2,False,10,2024,7.45,4
+2025-12-25,Asia,Cocktails,36-45,Female,Weekday Evening,3.5,12.45,1,False,12,2025,43.58,4
+2025-12-20,South America,Beer,46-55,Female,Party,1.7,9.79,5,True,12,2025,16.64,4
+2024-12-03,North America,Wine,18-25,Non-binary,Weekend Night,0.9,13.61,2,False,12,2024,12.25,4
+2024-02-22,South America,Spirits,18-25,Female,Weekend Night,1.7,5.61,4,False,2,2024,9.54,1
+2024-08-04,Asia,Beer,46-55,Male,Business,1.8,24.15,2,True,8,2024,43.47,3
+2024-07-06,Africa,Beer,46-55,Female,Business,2.1,18.72,1,True,7,2024,39.31,3
+2025-01-14,South America,Spirits,46-55,Male,Casual Dining,1.5,23.95,3,False,1,2025,35.92,1
+2025-05-07,Africa,Spirits,18-25,Female,Holiday,2.3,7.99,3,False,5,2025,18.38,2
+2024-02-10,North America,Spirits,18-25,Male,Casual Dining,6.3,22.35,4,True,2,2024,140.8,1
+2024-06-05,Africa,Spirits,46-55,Female,Party,1.1,20.79,4,False,6,2024,22.87,2
+2024-01-15,Africa,Wine,56+,Female,Casual Dining,3.2,17.9,3,False,1,2024,57.28,1
+2024-03-05,Europe,Beer,56+,Female,Weekday Evening,5.6,16.75,4,False,3,2024,93.8,1
+2025-06-04,Europe,Beer,26-35,Female,Party,1.5,9.96,2,False,6,2025,14.94,2
+2024-12-09,Oceania,Beer,36-45,Male,Business,1.5,20.96,5,False,12,2024,31.44,4
+2024-05-08,Europe,Cocktails,56+,Male,Weekend Night,2.3,14.03,5,False,5,2024,32.27,2
+2025-10-09,Africa,Wine,18-25,Male,Business,2.2,4.56,2,False,10,2025,10.03,4
+2025-04-16,Asia,Wine,56+,Male,Holiday,4.1,9.88,5,False,4,2025,40.51,2
+2024-03-03,Africa,Wine,26-35,Female,Party,1.6,23.58,1,True,3,2024,37.73,1
+2024-05-18,Asia,RTD,26-35,Male,Party,13.9,21.71,2,True,5,2024,301.77,2
+2025-05-13,Asia,Beer,36-45,Non-binary,Weekday Evening,0.5,24.6,4,False,5,2025,12.3,2
+2025-08-15,Europe,Wine,56+,Female,Holiday,0.5,16.82,2,False,8,2025,8.41,3
+2025-01-26,South America,Wine,18-25,Female,Weekend Night,2.6,8.45,3,True,1,2025,21.97,1
+2025-11-05,North America,Spirits,18-25,Male,Party,0.9,6.58,4,False,11,2025,5.92,4
+2025-02-22,Europe,Beer,46-55,Female,Party,0.7,7.11,3,True,2,2025,4.98,1
+2024-10-15,Europe,Cocktails,18-25,Female,Weekday Evening,0.9,3.44,4,False,10,2024,3.1,4
+2025-01-13,South America,RTD,36-45,Female,Casual Dining,0.7,11.6,5,False,1,2025,8.12,1
+2025-05-04,North America,Wine,36-45,Female,Weekend Night,0.5,7.21,2,True,5,2025,3.6,2
+2024-08-18,Africa,Spirits,18-25,Female,Business,8.9,12.06,1,True,8,2024,107.33,3
+2024-02-10,Oceania,RTD,18-25,Male,Holiday,0.6,23.57,4,True,2,2024,14.14,1
+2024-01-28,Oceania,Spirits,46-55,Female,Party,3.3,12.47,4,True,1,2024,41.15,1
+2024-05-14,Africa,Beer,18-25,Male,Party,3.6,22.32,3,False,5,2024,80.35,2
+2024-07-19,Europe,Wine,46-55,Male,Business,6.6,16.32,5,False,7,2024,107.71,3
+2024-02-02,North America,Spirits,46-55,Male,Weekend Night,0.5,8.44,3,False,2,2024,4.22,1
+2024-02-17,Europe,Wine,18-25,Male,Casual Dining,5.1,10.83,3,True,2,2024,55.23,1
+2025-05-17,Asia,Spirits,26-35,Male,Party,1.9,4.85,5,True,5,2025,9.21,2
+2025-02-10,Europe,RTD,26-35,Male,Weekend Night,2.5,10.34,1,False,2,2025,25.85,1
+2025-07-27,Europe,RTD,46-55,Non-binary,Business,2.6,17.91,3,True,7,2025,46.57,3
+2025-12-28,Africa,Wine,18-25,Female,Weekday Evening,4.3,4.59,3,True,12,2025,19.74,4
+2024-04-08,Africa,Beer,26-35,Non-binary,Casual Dining,1.0,7.52,4,False,4,2024,7.52,2
+2025-11-14,Africa,RTD,18-25,Male,Holiday,3.3,11.39,5,False,11,2025,37.59,4
+2025-12-26,Oceania,Cocktails,18-25,Male,Party,1.9,24.61,2,False,12,2025,46.76,4
+2025-06-30,Asia,Beer,18-25,Female,Weekend Night,3.9,20.27,1,False,6,2025,79.05,2
+2025-09-04,Africa,RTD,56+,Male,Weekday Evening,11.7,19.14,1,False,9,2025,223.94,3
+2025-04-06,North America,Cocktails,18-25,Male,Holiday,0.6,5.56,5,True,4,2025,3.34,2
+2025-10-04,Oceania,Wine,56+,Female,Weekend Night,13.1,20.18,4,True,10,2025,264.36,4
+2024-01-05,South America,Wine,46-55,Male,Weekend Night,0.5,20.28,4,False,1,2024,10.14,1
+2024-08-05,North America,Wine,26-35,Female,Holiday,0.5,16.22,5,False,8,2024,8.11,3
+2025-05-17,North America,Beer,26-35,Female,Weekday Evening,0.5,24.79,4,True,5,2025,12.4,2
+2025-02-01,Africa,Beer,26-35,Male,Business,1.0,10.16,1,True,2,2025,10.16,1
+2025-01-27,South America,Cocktails,26-35,Male,Weekday Evening,2.5,23.71,1,False,1,2025,59.28,1
+2024-07-25,South America,Beer,26-35,Female,Casual Dining,0.5,23.12,2,False,7,2024,11.56,3
+2024-01-15,Oceania,Beer,26-35,Male,Party,0.5,3.25,5,False,1,2024,1.62,1
+2025-07-07,South America,Wine,26-35,Male,Holiday,6.9,12.9,3,False,7,2025,89.01,3
+2025-04-05,Asia,Wine,46-55,Non-binary,Business,4.3,24.5,3,True,4,2025,105.35,2
+2025-11-21,Africa,Cocktails,18-25,Male,Holiday,4.1,5.27,2,False,11,2025,21.61,4
+2025-07-28,South America,Beer,36-45,Female,Holiday,5.4,15.05,2,False,7,2025,81.27,3
+2024-08-28,Oceania,Beer,56+,Non-binary,Weekday Evening,3.0,24.54,4,False,8,2024,73.62,3
+2025-07-17,Asia,Spirits,36-45,Male,Party,0.5,15.22,2,False,7,2025,7.61,3
+2024-04-05,Europe,Wine,36-45,Male,Casual Dining,1.3,7.18,2,False,4,2024,9.33,2
+2025-04-29,Europe,Beer,18-25,Male,Weekend Night,3.2,15.81,3,False,4,2025,50.59,2
+2025-02-10,Asia,Wine,18-25,Male,Weekend Night,0.8,7.5,4,False,2,2025,6.0,1
+2024-08-18,Oceania,Beer,18-25,Male,Holiday,2.9,14.43,2,True,8,2024,41.85,3
+2025-10-16,Asia,Beer,26-35,Female,Party,0.5,4.63,2,False,10,2025,2.32,4
+2024-06-19,Africa,Wine,46-55,Male,Business,0.9,16.32,4,False,6,2024,14.69,2
+2025-06-24,Africa,Wine,26-35,Female,Weekday Evening,2.0,14.37,5,False,6,2025,28.74,2
+2024-02-05,Europe,Cocktails,46-55,Non-binary,Party,2.5,19.28,4,False,2,2024,48.2,1
+2025-06-08,South America,Wine,46-55,Female,Party,2.2,16.88,3,True,6,2025,37.14,2
+2024-06-08,Oceania,Wine,36-45,Female,Weekday Evening,3.0,15.09,5,True,6,2024,45.27,2
+2025-11-29,Europe,Spirits,36-45,Male,Holiday,0.5,18.18,1,True,11,2025,9.09,4
+2024-08-30,South America,Beer,46-55,Female,Party,0.5,6.17,4,False,8,2024,3.08,3
+2024-03-26,South America,Spirits,46-55,Female,Weekend Night,5.1,16.1,3,False,3,2024,82.11,1
+2025-07-31,Africa,Beer,26-35,Male,Weekday Evening,2.9,6.79,5,False,7,2025,19.69,3
+2025-11-12,North America,RTD,26-35,Male,Business,0.5,23.36,4,False,11,2025,11.68,4
+2025-07-10,North America,Beer,36-45,Female,Casual Dining,4.6,4.5,2,False,7,2025,20.7,3
+2025-07-27,Asia,Wine,18-25,Male,Holiday,0.7,12.47,4,True,7,2025,8.73,3
+2025-10-07,Africa,Beer,46-55,Male,Weekday Evening,1.6,18.31,1,False,10,2025,29.3,4
+2024-01-28,South America,RTD,26-35,Male,Casual Dining,0.5,13.08,4,True,1,2024,6.54,1
+2025-09-11,Oceania,Wine,36-45,Male,Casual Dining,3.1,5.03,5,False,9,2025,15.59,3
+2025-07-09,North America,Wine,26-35,Female,Business,2.7,15.17,5,False,7,2025,40.96,3
+2024-12-05,South America,Beer,46-55,Female,Party,0.6,17.12,4,False,12,2024,10.27,4
+2024-11-26,North America,Spirits,46-55,Female,Business,5.0,18.48,5,False,11,2024,92.4,4
+2025-10-01,North America,Beer,56+,Male,Party,1.3,11.21,2,False,10,2025,14.57,4
+2025-05-20,North America,Cocktails,18-25,Male,Party,0.9,15.4,4,False,5,2025,13.86,2
+2024-12-13,Oceania,Beer,56+,Female,Weekday Evening,0.5,12.92,2,False,12,2024,6.46,4
+2025-04-17,Africa,Beer,36-45,Male,Weekday Evening,0.8,17.79,2,False,4,2025,14.23,2
+2024-08-18,Oceania,Beer,26-35,Male,Holiday,0.5,15.84,3,True,8,2024,7.92,3
+2024-07-08,Europe,Wine,36-45,Female,Party,2.2,14.57,4,False,7,2024,32.05,3
+2024-08-12,South America,Wine,46-55,Male,Casual Dining,4.6,8.49,5,False,8,2024,39.05,3
+2025-01-19,Africa,Beer,56+,Female,Weekend Night,2.0,3.04,2,True,1,2025,6.08,1
+2025-01-11,Africa,Spirits,56+,Male,Holiday,0.6,6.83,3,True,1,2025,4.1,1
+2024-10-09,Africa,Wine,56+,Male,Weekday Evening,0.5,5.58,4,False,10,2024,2.79,4
+2025-09-24,Africa,Wine,36-45,Male,Business,0.6,12.88,4,False,9,2025,7.73,3
+2025-09-19,Oceania,Wine,46-55,Non-binary,Holiday,1.3,16.47,1,False,9,2025,21.41,3
+2024-09-15,Africa,Wine,26-35,Female,Holiday,3.6,7.69,1,True,9,2024,27.68,3
+2024-12-24,Asia,Wine,26-35,Female,Holiday,0.5,23.66,2,False,12,2024,11.83,4
+2025-12-10,South America,Beer,36-45,Female,Holiday,3.2,3.15,1,False,12,2025,10.08,4
+2025-03-31,Africa,Beer,56+,Male,Weekend Night,5.0,19.99,2,False,3,2025,99.95,1
+2025-02-14,South America,Cocktails,18-25,Female,Business,1.5,16.75,5,False,2,2025,25.12,1
+2025-10-10,Asia,RTD,36-45,Male,Business,4.3,11.22,2,False,10,2025,48.25,4
+2024-11-13,Asia,Wine,36-45,Female,Business,2.0,4.11,1,False,11,2024,8.22,4
+2025-11-07,South America,Beer,46-55,Male,Party,2.5,16.8,5,False,11,2025,42.0,4
+2024-08-12,North America,Spirits,26-35,Female,Casual Dining,1.9,11.48,1,False,8,2024,21.81,3
+2024-08-21,Europe,Wine,36-45,Male,Business,1.6,23.6,2,False,8,2024,37.76,3
+2025-11-14,North America,Beer,36-45,Male,Holiday,0.7,14.92,3,False,11,2025,10.44,4
+2025-10-25,North America,Beer,56+,Female,Holiday,0.9,23.67,4,True,10,2025,21.3,4
+2025-01-08,Oceania,Spirits,56+,Male,Business,0.9,7.85,1,False,1,2025,7.06,1
+2025-11-02,North America,Spirits,18-25,Male,Business,2.1,18.97,2,True,11,2025,39.84,4
+2025-08-30,Africa,Beer,46-55,Male,Holiday,0.5,16.58,5,True,8,2025,8.29,3
+2025-04-16,Oceania,Beer,18-25,Male,Party,6.2,19.27,1,False,4,2025,119.47,2
+2024-08-20,Oceania,Beer,56+,Female,Weekday Evening,3.2,7.72,1,False,8,2024,24.7,3
+2025-11-22,Asia,Spirits,26-35,Female,Weekday Evening,1.3,17.63,4,True,11,2025,22.92,4
+2024-04-22,North America,Beer,56+,Female,Business,0.5,13.96,2,False,4,2024,6.98,2
+2025-05-11,Asia,Beer,46-55,Female,Weekend Night,5.3,19.34,3,True,5,2025,102.5,2
+2025-03-17,South America,Spirits,56+,Male,Business,4.3,10.19,5,False,3,2025,43.82,1
+2025-07-17,Europe,Beer,46-55,Female,Business,3.2,22.58,2,False,7,2025,72.26,3
+2024-09-24,Oceania,Spirits,46-55,Male,Weekday Evening,0.8,4.85,5,False,9,2024,3.88,3
+2025-05-24,South America,Beer,46-55,Male,Holiday,1.3,20.76,1,True,5,2025,26.99,2
+2025-01-20,South America,Beer,46-55,Female,Business,0.5,21.95,4,False,1,2025,10.98,1
+2025-01-21,Africa,Beer,46-55,Male,Holiday,0.5,20.98,4,False,1,2025,10.49,1
+2024-04-22,Europe,Spirits,26-35,Female,Holiday,3.8,14.28,3,False,4,2024,54.26,2
+2025-09-04,South America,Cocktails,18-25,Male,Weekend Night,3.1,12.64,4,False,9,2025,39.18,3
+2025-09-16,South America,Cocktails,36-45,Female,Holiday,2.3,24.92,1,False,9,2025,57.32,3
+2024-03-21,Europe,Wine,18-25,Female,Weekday Evening,5.7,8.04,3,False,3,2024,45.83,1
+2025-11-29,Europe,Spirits,46-55,Female,Party,2.2,15.03,2,True,11,2025,33.07,4
+2024-04-22,South America,Beer,26-35,Female,Party,1.6,17.75,4,False,4,2024,28.4,2
+2024-01-02,Europe,Beer,56+,Female,Casual Dining,1.0,18.42,3,False,1,2024,18.42,1
+2025-10-03,South America,Cocktails,26-35,Male,Business,7.1,7.49,1,False,10,2025,53.18,4
+2024-08-07,South America,Beer,46-55,Female,Weekday Evening,0.5,17.39,5,False,8,2024,8.7,3
+2025-07-19,Africa,Beer,26-35,Male,Holiday,6.7,21.0,5,True,7,2025,140.7,3
+2024-08-12,North America,Beer,26-35,Female,Party,4.4,4.1,1,False,8,2024,18.04,3
+2025-01-19,South America,Beer,46-55,Female,Weekday Evening,0.5,23.05,1,True,1,2025,11.52,1
+2025-02-06,Asia,Beer,26-35,Female,Party,2.1,3.65,5,False,2,2025,7.66,1
+2025-09-29,Oceania,Wine,36-45,Male,Holiday,5.0,10.83,3,False,9,2025,54.15,3
+2024-05-09,North America,Wine,36-45,Male,Party,2.1,3.35,5,False,5,2024,7.04,2
+2024-02-22,North America,Cocktails,26-35,Female,Business,5.9,4.7,1,False,2,2024,27.73,1
+2025-11-14,North America,Cocktails,56+,Male,Business,7.2,23.05,4,False,11,2025,165.96,4
+2025-12-30,Africa,Beer,46-55,Male,Casual Dining,1.4,10.81,2,False,12,2025,15.13,4
+2025-11-02,South America,Beer,36-45,Male,Casual Dining,1.2,12.34,4,True,11,2025,14.81,4
+2025-12-10,Africa,Wine,56+,Female,Party,6.9,7.74,4,False,12,2025,53.41,4
+2025-02-19,South America,Wine,26-35,Female,Weekday Evening,2.8,16.14,1,False,2,2025,45.19,1
+2024-09-03,Africa,Beer,56+,Male,Business,0.5,16.09,5,False,9,2024,8.04,3
+2025-03-14,Africa,Spirits,18-25,Male,Weekday Evening,0.5,11.19,3,False,3,2025,5.6,1
+2024-07-21,Oceania,Wine,36-45,Male,Weekday Evening,2.1,10.33,4,True,7,2024,21.69,3
+2024-07-02,Asia,Wine,26-35,Female,Party,6.7,22.47,5,False,7,2024,150.55,3
+2024-05-02,Africa,Wine,46-55,Female,Weekday Evening,4.6,11.43,3,False,5,2024,52.58,2
+2025-02-04,Oceania,Beer,26-35,Male,Business,2.8,13.86,4,False,2,2025,38.81,1
+2024-10-20,Europe,RTD,46-55,Male,Holiday,0.5,9.23,3,True,10,2024,4.62,4
+2024-10-06,Asia,Spirits,26-35,Male,Casual Dining,0.7,20.31,5,True,10,2024,14.22,4
+2025-09-01,Africa,Beer,56+,Female,Holiday,5.2,11.74,2,False,9,2025,61.05,3
+2024-07-16,North America,Cocktails,56+,Female,Weekday Evening,0.5,14.3,5,False,7,2024,7.15,3
+2025-05-25,Europe,Wine,56+,Male,Holiday,0.8,8.57,1,True,5,2025,6.86,2
+2024-05-23,Europe,Cocktails,18-25,Male,Business,0.5,24.73,3,False,5,2024,12.36,2
+2025-08-31,Oceania,Spirits,46-55,Male,Business,2.8,9.41,2,True,8,2025,26.35,3
+2024-07-19,Europe,Wine,56+,Non-binary,Weekday Evening,7.2,19.96,3,False,7,2024,143.71,3
+2024-05-03,Asia,Beer,18-25,Male,Party,0.8,12.4,3,False,5,2024,9.92,2
+2024-07-05,Africa,Beer,46-55,Female,Holiday,1.6,7.54,4,False,7,2024,12.06,3
+2024-11-21,Africa,Wine,26-35,Female,Party,2.5,20.59,1,False,11,2024,51.48,4
+2025-04-08,North America,Spirits,18-25,Male,Party,15.0,10.34,3,False,4,2025,155.1,2
+2024-12-14,Oceania,Beer,36-45,Male,Weekend Night,0.5,22.03,5,True,12,2024,11.02,4
+2025-10-21,North America,Beer,18-25,Male,Weekday Evening,1.7,23.14,5,False,10,2025,39.34,4
+2025-02-06,Europe,Cocktails,18-25,Female,Casual Dining,1.2,21.92,4,False,2,2025,26.3,1
+2024-12-11,North America,RTD,46-55,Female,Business,5.0,3.77,1,False,12,2024,18.85,4
+2025-05-25,Asia,Wine,26-35,Female,Business,1.6,20.32,1,True,5,2025,32.51,2
+2024-05-26,Africa,Beer,36-45,Female,Weekday Evening,0.5,12.05,5,True,5,2024,6.02,2
+2024-05-27,Europe,Beer,56+,Male,Casual Dining,2.5,22.22,2,False,5,2024,55.55,2
+2025-12-11,North America,Beer,56+,Non-binary,Business,3.7,17.03,4,False,12,2025,63.01,4
+2025-05-03,Oceania,Cocktails,18-25,Female,Weekday Evening,0.5,21.34,4,True,5,2025,10.67,2
+2025-10-01,Asia,Beer,46-55,Male,Business,4.9,13.99,5,False,10,2025,68.55,4
+2025-07-04,Asia,Wine,46-55,Non-binary,Party,0.5,14.77,5,False,7,2025,7.38,3
+2024-12-03,North America,Beer,56+,Female,Holiday,2.0,6.18,2,False,12,2024,12.36,4
+2025-10-02,Africa,Wine,36-45,Female,Holiday,1.3,20.25,2,False,10,2025,26.32,4
+2025-04-17,North America,Spirits,26-35,Female,Business,3.2,12.23,1,False,4,2025,39.14,2
+2024-05-30,Europe,Cocktails,36-45,Female,Weekend Night,1.2,14.0,4,False,5,2024,16.8,2
+2025-02-18,North America,Beer,26-35,Female,Casual Dining,5.1,20.27,4,False,2,2025,103.38,1
+2024-10-24,Asia,Beer,56+,Male,Casual Dining,3.3,16.17,5,False,10,2024,53.36,4
+2025-09-02,North America,Beer,26-35,Male,Casual Dining,2.6,7.42,1,False,9,2025,19.29,3
+2024-09-19,Africa,Cocktails,46-55,Female,Party,4.0,15.99,4,False,9,2024,63.96,3
+2024-05-23,Oceania,Cocktails,18-25,Male,Casual Dining,3.5,11.97,1,False,5,2024,41.9,2
+2024-12-11,South America,Wine,18-25,Male,Holiday,0.5,13.33,1,False,12,2024,6.66,4
+2025-09-15,North America,Spirits,56+,Male,Party,1.3,3.62,5,False,9,2025,4.71,3
+2025-07-25,Africa,Spirits,46-55,Male,Weekday Evening,6.7,7.62,1,False,7,2025,51.05,3
+2024-01-02,Africa,Beer,36-45,Female,Casual Dining,0.5,9.18,2,False,1,2024,4.59,1
+2024-10-30,Oceania,Cocktails,46-55,Female,Casual Dining,3.3,18.69,2,False,10,2024,61.68,4
+2024-09-10,Asia,Wine,18-25,Male,Weekday Evening,9.2,3.25,3,False,9,2024,29.9,3
+2025-10-13,Africa,Wine,18-25,Male,Casual Dining,0.5,11.99,5,False,10,2025,6.0,4
+2025-03-28,Africa,Wine,46-55,Male,Weekday Evening,2.9,23.33,3,False,3,2025,67.66,1
+2024-02-06,Africa,Beer,46-55,Female,Party,1.6,5.46,2,False,2,2024,8.74,1
+2024-06-08,Africa,Beer,18-25,Female,Holiday,2.2,14.36,3,True,6,2024,31.59,2
+2024-01-09,Europe,Spirits,36-45,Male,Weekday Evening,0.5,20.3,5,False,1,2024,10.15,1
+2024-08-20,Europe,Beer,56+,Female,Weekend Night,0.5,23.74,5,False,8,2024,11.87,3
+2024-04-08,Asia,Spirits,56+,Female,Weekday Evening,2.7,19.43,1,False,4,2024,52.46,2
+2025-10-20,North America,Beer,46-55,Female,Casual Dining,4.3,18.85,4,False,10,2025,81.06,4
+2024-07-26,Africa,Wine,56+,Female,Party,3.8,21.18,1,False,7,2024,80.48,3
+2024-05-10,Oceania,Beer,18-25,Male,Business,2.0,12.82,5,False,5,2024,25.64,2
+2025-02-07,North America,Wine,18-25,Female,Party,0.5,20.73,2,False,2,2025,10.36,1
+2024-05-31,Oceania,Spirits,46-55,Male,Business,2.9,3.18,2,False,5,2024,9.22,2
+2024-02-23,North America,Beer,46-55,Female,Weekday Evening,0.7,23.34,1,False,2,2024,16.34,1
+2024-04-29,Asia,Wine,46-55,Female,Holiday,6.0,12.75,5,False,4,2024,76.5,2
+2025-11-03,Africa,Wine,36-45,Female,Weekend Night,4.6,15.17,2,False,11,2025,69.78,4
+2025-09-19,Africa,Spirits,56+,Female,Party,3.1,8.61,5,False,9,2025,26.69,3
+2025-08-09,South America,RTD,46-55,Male,Casual Dining,7.4,19.34,2,True,8,2025,143.12,3
+2025-09-16,Oceania,Spirits,26-35,Female,Business,0.5,4.69,5,False,9,2025,2.35,3
+2025-02-23,North America,Beer,26-35,Non-binary,Casual Dining,3.3,22.2,3,True,2,2025,73.26,1
+2025-02-25,North America,Beer,18-25,Female,Holiday,1.0,21.22,5,False,2,2025,21.22,1
+2024-04-13,Europe,Beer,56+,Male,Business,5.9,7.75,5,True,4,2024,45.72,2
+2024-09-10,South America,Wine,46-55,Male,Party,0.8,20.81,1,False,9,2024,16.65,3
+2024-08-14,Europe,Beer,26-35,Male,Weekday Evening,3.2,20.3,3,False,8,2024,64.96,3
+2024-04-21,Europe,Wine,56+,Female,Casual Dining,5.3,16.91,4,True,4,2024,89.62,2
+2025-05-24,Europe,Wine,18-25,Female,Holiday,0.5,11.22,1,True,5,2025,5.61,2
+2025-04-17,Oceania,Beer,36-45,Male,Party,1.3,8.97,4,False,4,2025,11.66,2
+2024-04-08,Oceania,Spirits,56+,Female,Party,3.6,8.1,2,False,4,2024,29.16,2
+2024-06-01,Asia,Beer,56+,Female,Party,1.5,10.01,4,True,6,2024,15.02,2
+2024-12-03,Asia,Beer,36-45,Female,Party,0.8,22.88,5,False,12,2024,18.3,4
+2025-12-06,Europe,Spirits,56+,Female,Business,0.6,4.71,4,True,12,2025,2.83,4
+2024-06-11,South America,Wine,18-25,Female,Party,0.5,21.24,1,False,6,2024,10.62,2
+2025-12-20,North America,Spirits,18-25,Female,Casual Dining,4.9,10.68,1,True,12,2025,52.33,4
+2025-11-11,Oceania,Wine,36-45,Male,Holiday,2.1,14.48,4,False,11,2025,30.41,4
+2024-06-09,South America,Beer,46-55,Female,Business,0.5,20.48,1,True,6,2024,10.24,2
+2025-08-02,Africa,Cocktails,26-35,Female,Party,1.2,22.46,1,True,8,2025,26.95,3
+2025-02-01,Oceania,Spirits,46-55,Female,Weekend Night,1.1,10.59,4,True,2,2025,11.65,1
+2024-10-03,Oceania,Spirits,56+,Female,Weekend Night,0.5,13.16,3,False,10,2024,6.58,4
+2025-05-18,Asia,Beer,26-35,Female,Holiday,1.4,12.12,3,True,5,2025,16.97,2
+2025-01-26,North America,Wine,36-45,Male,Weekday Evening,1.0,3.29,2,True,1,2025,3.29,1
+2024-05-14,North America,Wine,36-45,Male,Weekday Evening,1.0,9.51,1,False,5,2024,9.51,2
+2024-07-13,Africa,Beer,26-35,Male,Business,3.4,13.1,4,True,7,2024,44.54,3
+2025-02-04,Africa,Cocktails,18-25,Male,Business,0.6,12.04,1,False,2,2025,7.22,1
+2025-10-01,Oceania,Beer,26-35,Female,Business,2.6,18.88,5,False,10,2025,49.09,4
+2024-02-02,Europe,RTD,56+,Non-binary,Weekday Evening,2.1,11.47,1,False,2,2024,24.09,1
+2025-11-18,Asia,Wine,18-25,Male,Weekend Night,2.1,13.77,1,False,11,2025,28.92,4
+2025-04-04,Asia,Beer,36-45,Male,Weekday Evening,2.7,12.45,3,False,4,2025,33.62,2
+2025-04-14,Oceania,Wine,26-35,Female,Casual Dining,2.0,19.29,4,False,4,2025,38.58,2
+2025-01-09,South America,Cocktails,46-55,Male,Party,5.3,21.99,1,False,1,2025,116.55,1
+2024-01-22,Europe,Spirits,46-55,Female,Business,2.8,14.7,3,False,1,2024,41.16,1
+2025-10-31,Oceania,Cocktails,56+,Female,Weekend Night,2.0,20.37,2,False,10,2025,40.74,4
+2024-02-07,Europe,Spirits,46-55,Female,Holiday,4.4,9.53,3,False,2,2024,41.93,1
+2024-08-17,Europe,Spirits,26-35,Male,Holiday,2.3,14.91,3,True,8,2024,34.29,3
+2024-12-30,Europe,Cocktails,26-35,Male,Party,0.9,10.6,3,False,12,2024,9.54,4
+2025-07-16,Oceania,Beer,46-55,Female,Weekend Night,0.6,12.11,1,False,7,2025,7.27,3
+2025-03-13,Asia,Wine,26-35,Female,Weekday Evening,0.5,19.11,1,False,3,2025,9.56,1
+2024-10-09,Asia,Beer,56+,Male,Weekday Evening,5.7,22.4,2,False,10,2024,127.68,4
+2024-01-27,Europe,RTD,18-25,Female,Casual Dining,3.1,5.67,5,True,1,2024,17.58,1
+2024-08-13,South America,RTD,56+,Male,Casual Dining,6.9,16.96,5,False,8,2024,117.02,3
+2024-10-03,North America,Beer,56+,Female,Weekday Evening,2.3,15.81,5,False,10,2024,36.36,4
+2025-08-31,Oceania,Spirits,26-35,Male,Holiday,1.6,5.61,2,True,8,2025,8.98,3
+2024-10-10,North America,RTD,18-25,Female,Business,0.5,7.66,5,False,10,2024,3.83,4
+2025-04-25,South America,Beer,26-35,Male,Holiday,2.8,9.84,5,False,4,2025,27.55,2
+2025-03-28,Oceania,Wine,36-45,Male,Casual Dining,2.2,6.67,3,False,3,2025,14.67,1
+2025-10-20,Europe,Cocktails,26-35,Male,Party,11.6,8.36,1,False,10,2025,96.98,4
+2025-05-30,Asia,Beer,26-35,Male,Weekday Evening,0.7,8.89,1,False,5,2025,6.22,2
+2025-06-30,North America,Spirits,26-35,Female,Casual Dining,1.9,10.38,3,False,6,2025,19.72,2
+2024-07-10,Africa,Beer,18-25,Non-binary,Casual Dining,2.6,19.49,3,False,7,2024,50.67,3
+2024-02-18,Africa,RTD,26-35,Male,Business,2.6,15.58,3,True,2,2024,40.51,1
+2025-05-26,South America,RTD,18-25,Male,Weekday Evening,2.1,24.7,1,False,5,2025,51.87,2
+2024-01-17,Europe,RTD,46-55,Female,Business,3.8,12.12,5,False,1,2024,46.06,1
+2024-06-20,North America,Wine,36-45,Female,Weekday Evening,0.6,19.59,3,False,6,2024,11.75,2
+2024-08-07,Europe,Cocktails,18-25,Female,Business,3.2,22.17,2,False,8,2024,70.94,3
+2024-06-06,North America,Cocktails,46-55,Male,Holiday,2.4,17.94,3,False,6,2024,43.06,2
+2025-04-21,South America,Beer,18-25,Male,Party,5.7,12.06,4,False,4,2025,68.74,2
+2024-02-15,South America,Cocktails,18-25,Female,Party,4.7,19.58,3,False,2,2024,92.03,1
+2025-01-07,Africa,Beer,36-45,Male,Weekday Evening,0.9,7.48,1,False,1,2025,6.73,1
+2025-06-01,Europe,Wine,56+,Female,Weekend Night,0.8,10.21,3,True,6,2025,8.17,2
+2024-04-08,Oceania,Beer,56+,Male,Casual Dining,10.0,15.03,4,False,4,2024,150.3,2
+2024-02-06,Africa,Beer,18-25,Female,Casual Dining,1.9,15.66,2,False,2,2024,29.75,1
+2024-10-06,Europe,Beer,26-35,Male,Weekday Evening,5.9,3.49,5,True,10,2024,20.59,4
+2024-12-14,Africa,Spirits,46-55,Female,Business,0.5,23.79,3,True,12,2024,11.9,4
+2025-05-11,Oceania,Beer,26-35,Female,Weekend Night,2.6,18.33,4,True,5,2025,47.66,2
+2024-10-28,Asia,Spirits,26-35,Female,Holiday,4.1,13.91,4,False,10,2024,57.03,4
+2024-06-29,Asia,Beer,18-25,Male,Business,7.4,23.53,2,True,6,2024,174.12,2
+2025-08-29,Asia,Beer,18-25,Female,Business,1.0,12.66,1,False,8,2025,12.66,3
+2024-04-08,Asia,Wine,18-25,Female,Weekday Evening,3.2,24.57,3,False,4,2024,78.62,2
+2025-11-30,North America,Spirits,18-25,Female,Weekday Evening,1.9,14.27,4,True,11,2025,27.11,4
+2024-04-25,Asia,Beer,56+,Female,Casual Dining,0.5,5.51,2,False,4,2024,2.76,2
+2024-07-09,Oceania,Spirits,18-25,Female,Weekday Evening,2.9,19.83,5,False,7,2024,57.51,3
+2024-09-09,South America,Cocktails,56+,Female,Weekday Evening,2.9,17.94,4,False,9,2024,52.03,3
+2024-06-09,South America,Spirits,56+,Male,Weekday Evening,6.7,20.01,2,True,6,2024,134.07,2
+2024-09-12,North America,Beer,18-25,Female,Casual Dining,1.7,23.93,1,False,9,2024,40.68,3
+2024-11-18,Asia,Beer,36-45,Female,Holiday,0.7,20.08,1,False,11,2024,14.06,4
+2024-05-07,Asia,Cocktails,46-55,Male,Holiday,0.5,16.45,4,False,5,2024,8.22,2
+2024-01-18,Asia,Beer,26-35,Male,Weekday Evening,1.3,21.86,4,False,1,2024,28.42,1
+2025-07-19,Africa,Cocktails,56+,Male,Casual Dining,0.9,17.81,3,True,7,2025,16.03,3
+2025-07-23,Europe,Wine,46-55,Female,Holiday,3.6,11.98,2,False,7,2025,43.13,3
+2024-11-18,Africa,RTD,36-45,Female,Business,1.1,22.48,4,False,11,2024,24.73,4
+2025-11-16,Europe,Spirits,26-35,Female,Holiday,7.4,7.88,3,True,11,2025,58.31,4
+2025-09-17,Asia,RTD,26-35,Female,Holiday,8.2,18.72,3,False,9,2025,153.5,3
+2024-10-14,Asia,Wine,56+,Male,Casual Dining,2.4,22.39,4,False,10,2024,53.74,4
+2025-10-24,Africa,Spirits,18-25,Male,Business,6.6,19.09,1,False,10,2025,125.99,4
+2025-09-30,Africa,Wine,36-45,Male,Casual Dining,3.6,18.34,2,False,9,2025,66.02,3
+2024-06-03,Europe,Wine,56+,Male,Weekday Evening,2.0,19.56,2,False,6,2024,39.12,2
+2025-05-04,South America,Spirits,36-45,Male,Party,0.5,13.23,1,True,5,2025,6.62,2
+2025-01-20,Europe,Cocktails,18-25,Male,Holiday,1.5,22.23,4,False,1,2025,33.34,1
+2024-04-13,Africa,RTD,18-25,Female,Party,2.1,7.48,2,True,4,2024,15.71,2
+2025-01-27,Oceania,Spirits,56+,Female,Casual Dining,5.0,5.8,4,False,1,2025,29.0,1
+2024-09-02,Africa,Wine,18-25,Non-binary,Casual Dining,1.6,9.28,4,False,9,2024,14.85,3
+2024-06-24,Oceania,Wine,46-55,Female,Casual Dining,5.7,14.69,3,False,6,2024,83.73,2
+2024-02-08,North America,Spirits,26-35,Female,Party,2.8,14.23,1,False,2,2024,39.84,1
+2025-04-21,Africa,Beer,56+,Male,Casual Dining,0.5,21.05,4,False,4,2025,10.52,2
+2025-11-12,North America,Beer,36-45,Female,Weekday Evening,13.2,11.9,5,False,11,2025,157.08,4
+2025-06-21,South America,Wine,46-55,Female,Casual Dining,1.9,13.66,1,True,6,2025,25.95,2
+2025-02-11,Europe,Beer,56+,Male,Weekend Night,1.2,3.29,2,False,2,2025,3.95,1
+2025-06-08,Oceania,Beer,18-25,Male,Party,2.7,12.01,3,True,6,2025,32.43,2
+2025-05-20,Europe,Beer,18-25,Female,Weekend Night,0.5,17.25,2,False,5,2025,8.62,2
+2024-02-05,North America,Beer,18-25,Male,Casual Dining,2.5,3.34,2,False,2,2024,8.35,1
+2025-11-15,Oceania,Beer,18-25,Female,Weekday Evening,1.7,9.18,1,True,11,2025,15.61,4
+2024-01-20,Europe,RTD,36-45,Female,Holiday,1.3,7.58,2,True,1,2024,9.85,1
+2024-11-16,Africa,Wine,46-55,Male,Business,7.6,3.92,4,True,11,2024,29.79,4
+2025-05-26,Asia,Wine,26-35,Male,Business,1.8,13.54,2,False,5,2025,24.37,2
+2025-02-03,North America,Spirits,36-45,Male,Casual Dining,0.6,7.0,3,False,2,2025,4.2,1
+2025-10-15,Europe,Beer,36-45,Male,Weekday Evening,1.5,19.35,3,False,10,2025,29.02,4
+2025-04-15,North America,RTD,26-35,Male,Party,6.3,21.65,5,False,4,2025,136.39,2
+2024-05-22,North America,Spirits,26-35,Female,Weekend Night,0.5,15.0,3,False,5,2024,7.5,2
+2024-04-01,Oceania,Beer,18-25,Male,Weekend Night,0.6,24.6,2,False,4,2024,14.76,2
+2024-12-19,Oceania,Wine,36-45,Female,Weekend Night,0.5,12.91,3,False,12,2024,6.46,4
+2025-12-27,Asia,Cocktails,56+,Male,Party,0.5,14.29,1,True,12,2025,7.14,4
+2024-02-20,Africa,RTD,26-35,Female,Business,4.4,24.76,3,False,2,2024,108.94,1
+2025-10-26,North America,Wine,26-35,Male,Weekday Evening,3.3,8.09,4,True,10,2025,26.7,4
+2025-11-28,Europe,Spirits,46-55,Male,Party,1.1,23.74,1,False,11,2025,26.11,4
+2025-07-28,South America,Beer,56+,Female,Weekend Night,3.0,3.94,5,False,7,2025,11.82,3
+2024-07-08,North America,RTD,56+,Female,Casual Dining,1.3,12.82,4,False,7,2024,16.67,3
+2024-05-04,North America,Beer,26-35,Male,Holiday,7.6,4.54,2,True,5,2024,34.5,2
+2024-05-29,Asia,RTD,18-25,Female,Party,8.5,19.04,2,False,5,2024,161.84,2
+2024-11-09,Africa,Spirits,46-55,Male,Party,1.2,16.38,2,True,11,2024,19.66,4
+2025-07-23,South America,Spirits,56+,Female,Weekday Evening,4.8,18.55,4,False,7,2025,89.04,3
+2024-12-07,Oceania,Wine,26-35,Male,Weekday Evening,3.7,11.24,4,True,12,2024,41.59,4
+2024-10-31,Oceania,Beer,56+,Male,Party,0.9,11.13,4,False,10,2024,10.02,4
+2025-11-22,Europe,Beer,46-55,Female,Weekend Night,0.7,4.0,1,True,11,2025,2.8,4
+2025-11-12,South America,Beer,46-55,Female,Holiday,1.5,10.7,1,False,11,2025,16.05,4
+2024-02-23,Oceania,Beer,36-45,Male,Weekday Evening,3.8,23.44,2,False,2,2024,89.07,1
+2025-03-19,Europe,Spirits,26-35,Female,Weekend Night,8.1,11.34,3,False,3,2025,91.85,1
+2025-09-04,Africa,Wine,46-55,Female,Casual Dining,3.6,21.29,2,False,9,2025,76.64,3
+2024-09-20,Europe,Beer,36-45,Male,Weekday Evening,4.8,21.53,5,False,9,2024,103.34,3
+2024-02-22,Oceania,RTD,36-45,Female,Weekend Night,2.3,11.21,1,False,2,2024,25.78,1
+2025-07-25,Asia,Cocktails,56+,Male,Weekend Night,4.5,16.9,4,False,7,2025,76.05,3
+2025-09-11,Asia,RTD,56+,Female,Holiday,3.8,5.1,1,False,9,2025,19.38,3
+2024-01-05,Asia,RTD,36-45,Female,Holiday,1.2,5.28,4,False,1,2024,6.34,1
+2024-04-12,Oceania,Beer,56+,Female,Casual Dining,2.0,4.07,5,False,4,2024,8.14,2
+2024-07-14,Asia,Wine,46-55,Male,Weekend Night,4.1,15.78,5,True,7,2024,64.7,3
+2024-12-15,South America,Spirits,18-25,Male,Business,0.5,12.37,1,True,12,2024,6.18,4
+2024-02-16,Africa,Spirits,46-55,Male,Weekend Night,4.1,15.06,4,False,2,2024,61.75,1
+2025-10-17,Europe,Beer,36-45,Male,Holiday,0.5,14.46,5,False,10,2025,7.23,4
+2024-09-25,Europe,Cocktails,36-45,Male,Business,1.8,10.7,2,False,9,2024,19.26,3
+2025-01-04,Oceania,Beer,46-55,Female,Weekday Evening,4.1,17.9,2,True,1,2025,73.39,1
+2025-09-27,Asia,Beer,56+,Male,Weekday Evening,0.7,19.69,4,True,9,2025,13.78,3
+2024-04-15,Asia,Wine,56+,Male,Party,0.7,3.32,1,False,4,2024,2.32,2
+2025-10-31,North America,Wine,36-45,Female,Holiday,1.3,7.56,5,False,10,2025,9.83,4
+2025-10-20,Africa,Wine,26-35,Male,Party,5.6,18.69,1,False,10,2025,104.66,4
+2025-10-18,South America,Beer,56+,Female,Business,0.5,11.51,2,True,10,2025,5.76,4
+2024-04-29,Europe,Cocktails,46-55,Male,Holiday,5.8,17.57,5,False,4,2024,101.91,2
+2025-08-26,North America,Beer,56+,Female,Casual Dining,0.5,10.63,1,False,8,2025,5.32,3
+2024-02-27,North America,Beer,46-55,Male,Weekend Night,11.5,11.6,3,False,2,2024,133.4,1
+2024-12-11,Oceania,Cocktails,36-45,Male,Casual Dining,7.7,6.49,4,False,12,2024,49.97,4
+2025-04-18,Europe,RTD,56+,Female,Business,1.7,8.68,4,False,4,2025,14.76,2
+2024-04-26,Oceania,Cocktails,46-55,Male,Holiday,1.8,16.32,3,False,4,2024,29.38,2
+2024-05-06,South America,Cocktails,36-45,Female,Business,1.6,12.53,2,False,5,2024,20.05,2
+2025-01-27,North America,Spirits,26-35,Male,Weekend Night,2.5,20.03,5,False,1,2025,50.08,1
+2025-10-02,North America,Wine,46-55,Male,Weekday Evening,0.5,21.76,4,False,10,2025,10.88,4
+2024-02-27,Africa,Beer,26-35,Female,Weekday Evening,0.5,14.92,3,False,2,2024,7.46,1
+2025-09-25,South America,Wine,26-35,Male,Business,0.5,19.68,3,False,9,2025,9.84,3
+2025-05-27,North America,Wine,18-25,Female,Party,1.5,9.75,2,False,5,2025,14.62,2
+2024-04-05,South America,Beer,56+,Non-binary,Holiday,0.8,12.13,2,False,4,2024,9.7,2
+2025-09-29,Europe,Spirits,46-55,Female,Holiday,2.4,18.68,1,False,9,2025,44.83,3
+2024-04-27,Asia,Wine,26-35,Female,Weekday Evening,12.2,11.5,4,True,4,2024,140.3,2
+2025-07-13,North America,Beer,18-25,Male,Casual Dining,1.2,15.95,1,True,7,2025,19.14,3
+2025-08-23,Africa,Beer,36-45,Male,Weekend Night,2.1,7.08,3,True,8,2025,14.87,3
+2025-05-02,Europe,Spirits,46-55,Male,Casual Dining,1.3,16.19,5,False,5,2025,21.05,2
+2024-08-24,South America,Beer,26-35,Female,Casual Dining,4.7,21.95,5,True,8,2024,103.16,3
+2024-09-28,Oceania,Cocktails,56+,Non-binary,Business,5.8,22.11,2,True,9,2024,128.24,3
+2024-07-07,Europe,Wine,18-25,Male,Weekday Evening,5.2,18.94,5,True,7,2024,98.49,3
+2025-12-04,North America,Wine,26-35,Female,Weekday Evening,9.2,19.41,5,False,12,2025,178.57,4
+2025-03-22,South America,Wine,56+,Male,Weekday Evening,0.5,15.27,5,True,3,2025,7.64,1
+2025-08-03,Asia,Cocktails,26-35,Female,Business,4.6,15.86,3,True,8,2025,72.96,3
+2024-09-03,Europe,Beer,46-55,Male,Party,3.5,5.94,5,False,9,2024,20.79,3
+2024-03-16,North America,Spirits,46-55,Non-binary,Casual Dining,0.6,12.76,5,True,3,2024,7.66,1
+2024-06-02,Africa,Wine,46-55,Female,Business,7.8,12.92,5,True,6,2024,100.78,2
+2025-10-17,Oceania,Beer,18-25,Male,Holiday,0.5,24.09,1,False,10,2025,12.04,4
+2025-03-10,South America,Cocktails,46-55,Male,Weekend Night,2.8,12.48,3,False,3,2025,34.94,1
+2024-03-26,Europe,Spirits,56+,Male,Party,0.6,15.09,2,False,3,2024,9.05,1
+2025-11-27,Europe,Spirits,26-35,Male,Holiday,1.4,14.73,1,False,11,2025,20.62,4
+2024-10-11,Asia,Cocktails,36-45,Male,Casual Dining,3.2,17.01,4,False,10,2024,54.43,4
+2024-08-07,Asia,Cocktails,56+,Female,Weekday Evening,2.1,19.46,3,False,8,2024,40.87,3
+2024-03-09,Africa,Spirits,56+,Female,Casual Dining,1.4,7.95,3,True,3,2024,11.13,1
+2024-02-16,Oceania,Cocktails,46-55,Female,Business,1.0,14.63,4,False,2,2024,14.63,1
+2024-04-03,Africa,Spirits,18-25,Male,Weekend Night,4.6,21.17,4,False,4,2024,97.38,2
+2025-03-28,North America,Spirits,26-35,Female,Business,0.5,13.19,4,False,3,2025,6.6,1
+2024-07-22,North America,Spirits,18-25,Female,Party,1.4,9.13,2,False,7,2024,12.78,3
+2024-08-05,Africa,Spirits,26-35,Male,Party,5.9,17.4,5,False,8,2024,102.66,3
+2025-04-18,Oceania,Beer,26-35,Female,Weekend Night,4.7,21.12,3,False,4,2025,99.26,2
+2025-03-07,Africa,Cocktails,18-25,Female,Holiday,1.3,4.39,5,False,3,2025,5.71,1
+2024-12-06,Oceania,Cocktails,56+,Male,Holiday,3.6,20.09,5,False,12,2024,72.32,4
+2025-07-04,Oceania,Beer,26-35,Male,Party,4.3,21.08,4,False,7,2025,90.64,3
+2025-09-03,South America,Cocktails,18-25,Female,Party,5.5,13.15,2,False,9,2025,72.32,3
+2024-10-15,Oceania,Beer,26-35,Male,Weekday Evening,2.0,24.63,1,False,10,2024,49.26,4
+2024-09-10,Asia,Beer,36-45,Female,Holiday,0.6,20.31,2,False,9,2024,12.19,3
+2024-12-22,Oceania,Spirits,56+,Female,Weekend Night,0.7,20.02,5,True,12,2024,14.01,4
+2024-01-23,Oceania,Beer,46-55,Female,Holiday,0.9,19.45,2,False,1,2024,17.5,1
+2025-06-05,Oceania,Cocktails,26-35,Male,Weekday Evening,2.3,6.31,4,False,6,2025,14.51,2
+2024-04-09,North America,Cocktails,36-45,Male,Business,0.5,7.78,1,False,4,2024,3.89,2
+2024-06-28,Asia,Wine,46-55,Female,Party,2.5,13.21,4,False,6,2024,33.03,2
+2024-08-10,Asia,Beer,46-55,Female,Party,1.1,8.81,1,True,8,2024,9.69,3
+2025-10-20,Africa,Beer,26-35,Male,Weekday Evening,0.9,12.14,5,False,10,2025,10.93,4
+2025-03-17,South America,Spirits,18-25,Female,Weekend Night,5.3,22.55,1,False,3,2025,119.52,1
+2025-08-30,Oceania,RTD,26-35,Female,Party,1.5,21.14,1,True,8,2025,31.71,3
+2024-11-20,Europe,Spirits,36-45,Male,Casual Dining,0.5,16.86,1,False,11,2024,8.43,4
+2025-05-30,South America,Beer,46-55,Male,Party,4.4,21.88,2,False,5,2025,96.27,2
+2024-01-16,South America,Spirits,26-35,Female,Casual Dining,0.5,20.24,2,False,1,2024,10.12,1
+2024-12-01,Asia,Wine,18-25,Male,Weekday Evening,3.2,12.44,5,True,12,2024,39.81,4
+2024-09-14,South America,Spirits,26-35,Male,Weekday Evening,3.7,7.42,1,True,9,2024,27.45,3
+2025-05-11,Oceania,Beer,56+,Male,Party,1.1,14.31,3,True,5,2025,15.74,2
+2024-06-08,Oceania,Spirits,18-25,Male,Holiday,4.4,19.2,5,True,6,2024,84.48,2
+2025-04-19,North America,Wine,36-45,Female,Casual Dining,1.8,12.6,1,True,4,2025,22.68,2
+2025-10-25,Oceania,RTD,46-55,Female,Weekend Night,1.6,17.67,1,True,10,2025,28.27,4
+2025-11-20,Oceania,Beer,26-35,Male,Party,0.5,5.08,2,False,11,2025,2.54,4
+2025-11-05,Asia,Spirits,18-25,Female,Weekend Night,0.9,19.46,5,False,11,2025,17.51,4
+2025-01-14,Oceania,RTD,56+,Female,Party,6.7,20.88,1,False,1,2025,139.9,1
