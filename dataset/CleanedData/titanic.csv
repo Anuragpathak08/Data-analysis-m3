@@ -1,4 +1,4 @@
-PassengerId,Survived,Pclass,Name,Sex,Age,Sibling_spouse,Parent_child,Ticket,Fare,On_board
+PassengerId,Survived,Pclass,Name,Gender,Age,Sibling_spouse,Parent_child,Ticket,Fare,On_board
 1,False,3rd,"Braund, Mr. Owen Harris",male,22.0,1,0,A/5 21171,7.25,S
 2,True,1st,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,PC 17599,71.2833,C
 3,True,3rd,"Heikkinen, Miss. Laina",female,26.0,0,0,STON/O2. 3101282,7.925,S
